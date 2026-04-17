@@ -93,7 +93,7 @@ export const portfolioData = {
         description:
           'Personal productivity app to manage job applications with Kanban board interactions and clean UI micro-interactions.',
         stack: ['React', 'Vite', 'API' , 'Tailwind'],
-        liveUrl: 'https://crytodash-sand.vercel.app/',
+        liveUrl: 'https://cryptodash-sand.vercel.app/',
         githubUrl: 'https://github.com/Makuakpavan/Cryptodash.git',
       },
       {
