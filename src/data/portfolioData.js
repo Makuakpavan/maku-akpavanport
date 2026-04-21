@@ -162,7 +162,7 @@ export const portfolioData = {
       'I am available for frontend roles and freelance collaborations. Send me a message and I will get back within 24 hours.',
     social: [
       { label: 'GitHub', href: 'https://github.com/Makuakpavan', icon: FaGithub },
-      { label: 'LinkedIn', href: 'https://linkedin.com/in/maku-akpavan-5b2b30315', icon: FaLinkedin },
+      { label: 'LinkedIn', href: 'https://linkedin.com/in/maku-akpavan-a6222a400', icon: FaLinkedin },
       { label: 'Twitter', href: 'https://twitter.com', icon: FaTwitter },
     ],
   },
