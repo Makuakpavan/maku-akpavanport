@@ -1,6 +1,5 @@
 import { motion } from 'framer-motion'
 import { SectionTitle } from '../ui/SectionTitle'
-// import { Link } from 'react-router-dom'
 
 export function ProjectsSection({ data }) {
   const LiveIcon = data.links.live

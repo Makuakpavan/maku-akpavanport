@@ -89,7 +89,7 @@ export const portfolioData = {
         githubUrl: 'https://github.com/Makuakpavan/personal-ledger.git',
       },
       {
-        name: 'Crypto Dashoard',
+        name: 'Crypto Dashboard',
         description:
           'Personal productivity app to manage job applications with Kanban board interactions and clean UI micro-interactions.',
         stack: ['React', 'Vite', 'API' , 'Tailwind'],
@@ -105,7 +105,7 @@ export const portfolioData = {
         githubUrl: 'https://github.com/Makuakpavan/weatherapp.git',
       },
       {
-        name: 'Structural Porfolio website',
+        name: 'Structural Portfolio website',
         description:
           'Personal productivity app to manage job applications with Kanban board interactions and clean UI micro-interactions.',
         stack: ['React', 'Vite', 'Tailwind'],
