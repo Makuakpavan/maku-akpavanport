@@ -104,6 +104,7 @@ export const portfolioData = {
         liveUrl: 'https://weatherapp-khaki-pi.vercel.app/',
         githubUrl: 'https://github.com/Makuakpavan/weatherapp.git',
       },
+      
       {
         name: 'Structural Portfolio website',
         description:
@@ -111,6 +112,22 @@ export const portfolioData = {
         stack: ['React', 'Vite', 'Tailwind'],
         liveUrl: 'https://structuralportfolio.vercel.app/',
         githubUrl: 'https://github.com/Makuakpavan/Structuralportfolio.git',
+      },
+      {
+        name: 'Velour Threads E-commerce',
+        description:
+          'Velour Threads is a modern fashion e-commerce app designed to showcase trendy streetwear and casual clothing collections, including hoodies, cargos, joggers, sweatshirts, and tops. The platform combines a sleek user interface with a stylish shopping experience, allowing users to browse products, explore categories, and stay updated with the latest fashion trends.',
+        stack: ['React', 'Vite', 'Tailwind'],
+        liveUrl: 'https://velourthreads.vercel.app/',
+        githubUrl: 'https://github.com/Makuakpavan/velourthreads.git',
+      },
+      {
+        name: 'SoundPro Audio Equipment Store',
+        description:
+          'SoundPro is a modern audio equipment e-commerce app designed to showcase high-quality headphones, speakers, and accessories. The platform combines a sleek user interface with a stylish shopping experience, allowing users to browse products, explore categories, and stay updated with the latest audio technology.',
+        stack: ['React', 'Vite', 'Tailwind'],
+        liveUrl: 'https://soundpro-virid.vercel.app/',
+        githubUrl: 'https://github.com/Makuakpavan/soundpro.git',
       },
     ],
     links: {
